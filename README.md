@@ -49,12 +49,7 @@ Created 12 key features from the text data:
 
 ### 4. Model Evaluation
 - Split data 80/20 for training/testing
-- Compared performance using MSE:
-
-| Model              | Content MSE | Wording MSE |
-|--------------------|-------------|-------------|
-| Linear Regression  | 0.85        | 0.92        |
-| Random Forest      | 0.72        | 0.81        |
+- Compared performance using MSE
 
 ### 5. Results Analysis
 - Random Forest outperformed Linear Regression
@@ -72,9 +67,3 @@ Created 12 key features from the text data:
 - Add more sophisticated NLP features (sentence structure, coherence)
 - Develop an ensemble of specialized models
 - Create interpretation tools to explain scores to students
-
-## Files Included
-- `Data_Preprocessing.ipynb`: Data cleaning and feature engineering
-- `Model_Training.ipynb`: Model development and evaluation
-- `results/`: Contains model performance metrics
-- `data/`: Sample datasets (full data available on Kaggle)
