@@ -1,4 +1,25 @@
 # Student Summary Evaluation Project
+## 🛠️ Tools & Technologies Used
+
+### Programming Language
+- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20"> **Python 3**
+
+### Data Processing
+- <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="20"> **Pandas** (Data manipulation and analysis)
+- <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="20"> **NumPy** (Numerical computing)
+
+### Machine Learning
+- <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="20"> **Scikit-learn** (Linear Regression, Random Forest)
+- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20"> **TensorFlow** (Optional for neural network approaches)
+- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="20"> **PyTorch** (Optional for advanced modeling)
+
+### NLP Libraries
+- <img src="https://img.shields.io/badge/NLTK-008000?logo=python&logoColor=white" height="20"> **NLTK** (Basic text processing)
+- <img src="https://img.shields.io/badge/SpaCy-09A3D5?logo=spacy&logoColor=white" height="20"> **SpaCy** (Advanced NLP features)
+
+### Visualization
+- <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" height="20"> **Matplotlib** (Basic plotting)
+- <img src="https://img.shields.io/badge/Seaborn-5B8AC6?logo=python&logoColor=white" height="20"> **Seaborn** (Statistical visualizations)
 
 ## Project Description
 This project develops a machine learning system to automatically evaluate the quality of student-written summaries by predicting content and wording scores. The system analyzes linguistic features from student summaries and their corresponding prompts to assess writing quality.
