@@ -1,4 +1,8 @@
 # Student Summary Evaluation Project
+
+## Project Description
+This project develops a machine learning system to automatically evaluate the quality of student-written summaries by predicting content and wording scores. The system analyzes linguistic features from student summaries and their corresponding prompts to assess writing quality.
+
 ## 🛠️ Tools & Technologies Used
 
 ### Programming Language
@@ -20,9 +24,6 @@
 ### Visualization
 - <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" height="20"> **Matplotlib** (Basic plotting)
 - <img src="https://img.shields.io/badge/Seaborn-5B8AC6?logo=python&logoColor=white" height="20"> **Seaborn** (Statistical visualizations)
-
-## Project Description
-This project develops a machine learning system to automatically evaluate the quality of student-written summaries by predicting content and wording scores. The system analyzes linguistic features from student summaries and their corresponding prompts to assess writing quality.
 
 ## Dataset
 Used the Kaggle dataset: [CommonLit Evaluate Student Summaries](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries)
